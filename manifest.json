@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "updated_at": "2026-07-04T16:12:23.504895+00:00",
+  "articles": [
+    {
+      "title": "Best Books & Reference apps for photographers — a curator's guide",
+      "slug": "deep-books-photographers-2026-07-04",
+      "category": "deep_dive",
+      "topic": "books",
+      "description": "A curated starter pack of 7 books & reference apps for photographers — picked for quality, not for ad spend.",
+      "published_at": "2026-07-04",
+      "url": "https://raw.githubusercontent.com/albertlaudia/mx.solverwatch.insights/main/articles/deep-books-photographers-2026-07-04.md",
+      "apps_featured": [
+        364709193,
+        302584613,
+        379693831,
+        355833469,
+        306310789,
+        1076402606,
+        1380362212
+      ]
+    },
+    {
+      "title": "Premium Music apps that just went free this week",
+      "slug": "price-music-2026-07-04",
+      "category": "price_picks",
+      "topic": "music",
+      "description": "Editor's pick of 7 premium music apps that justify their price tag — and when they go on sale, they're worth grabbing.",
+      "published_at": "2026-07-04",
+      "url": "https://raw.githubusercontent.com/albertlaudia/mx.solverwatch.insights/main/articles/price-music-2026-07-04.md",
+      "apps_featured": [
+        573192227,
+        1207839273,
+        319295332,
+        905746421,
+        924491991,
+        1050535507,
+        979888370
+      ]
+    },
+    {
+      "title": "Zoom Workplace vs Business Empire: RichMan — a side-by-side for travellers",
+      "slug": "compare-546505307-6451208928-2026-07-04",
+      "category": "comparison",
+      "topic": "business",
+      "description": "A side-by-side comparison of Zoom Workplace and Business Empire: RichMan — two leading business apps on iOS.",
+      "published_at": "2026-07-04",
+      "url": "https://raw.githubusercontent.com/albertlaudia/mx.solverwatch.insights/main/articles/compare-546505307-6451208928-2026-07-04.md",
+      "apps_featured": [
+        546505307,
+        6451208928
+      ]
+    },
+    {
+      "title": "7 Developer Tools apps with cult followings",
+      "slug": "top-developer-tools-apps-2026-07-04",
+      "category": "listicle",
+      "topic": "developer-tools",
+      "description": "A ranked list of the 7 best developer tools apps on iOS right now. Ranked by rating × review volume, refreshed every week.",
+      "published_at": "2026-07-04",
+      "url": "https://raw.githubusercontent.com/albertlaudia/mx.solverwatch.insights/main/articles/top-developer-tools-apps-2026-07-04.md",
+      "apps_featured": [
+        899247664,
+        1133960732,
+        1477376905,
+        1614022293,
+        1234793120,
+        1447489375,
+        982107779
+      ]
+    },
+    {
+      "title": "Meet Discover Mobile: the finance app quietly amassing five-star reviews",
+      "slug": "spotlight-338010821-2026-07-04",
+      "category": "spotlight",
+      "topic": "finance",
+      "description": "Discover Mobile by Discover Financial Services is one of the highest-rated finance apps on iOS — here's what it does and why people love it.",
+      "published_at": "2026-07-04",
+      "url": "https://raw.githubusercontent.com/albertlaudia/mx.solverwatch.insights/main/articles/spotlight-338010821-2026-07-04.md",
+      "apps_featured": [
+        338010821
+      ]
+    },
+    {
+      "title": "Underrated Education apps with surprisingly high ratings",
+      "slug": "hidden-gems-education-2026-07-04",
+      "category": "hidden_gems",
+      "topic": "education",
+      "description": "6 under-the-radar education apps with cult-favourite ratings.",
+      "published_at": "2026-07-04",
+      "url": "https://raw.githubusercontent.com/albertlaudia/mx.solverwatch.insights/main/articles/hidden-gems-education-2026-07-04.md",
+      "apps_featured": [
+        1277635867,
+        1642205664,
+        1352772651,
+        1047012845,
+        804248260,
+        926697272
+      ]
+    }
+  ],
+  "total_articles": 6,
+  "generated_by": "minimax cron job"
+}

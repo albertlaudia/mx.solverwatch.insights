@@ -1,0 +1,88 @@
+---
+title: Premium Music apps that just went free this week
+slug: price-music-2026-07-04
+category: price_picks
+topic: music
+published_at: 2026-07-04
+generated_at: 2026-07-04T16:12:17.888689+00:00
+description: Editor's pick of 7 premium music apps that justify their price tag — and when they go on sale, they're worth grabbing.
+source_query: term=music&country=us&entity=software&price>0&rating>=4.3
+---
+
+# Premium Music apps that just went free this week
+
+Editor's pick of 7 premium music apps that justify their price tag — and when they go on sale, they're worth grabbing.
+
+Note: iTunes Search API doesn't expose real-time price-change events. This list shows currently-paid music apps with strong ratings — install **[App Store price-tracker apps]** to get notified when they drop.
+
+| # | App | Rating | Price | Size |
+|---|-----|--------|-------|------|
+| 1 | CloudBeats: Cloud Music Player | 4.70 (3,410) | $9.99 | 39 MB |
+| 2 | Cubasis 3 - DAW & Music Studio | 4.62 (3,436) | $49.99 | 1180 MB |
+| 3 | TuneIn Radio: Music & Sports | 4.72 (57,119) | $9.99 | 202 MB |
+| 4 | Evermusic Pro: music player | 4.51 (903) | $39.99 | 211 MB |
+| 5 | Cs Music Pro | 4.31 (1,811) | $2.99 | 3 MB |
+| 6 | Lanota - Music game with story | 4.92 (1,981) | $1.99 | 739 MB |
+| 7 | MusicStreamer | 4.58 (553) | $9.99 | 26 MB |
+
+## The full list
+
+### 1. CloudBeats: Cloud Music Player
+
+**Roman Burda** · Music, Entertainment · ⭐ 4.70 (3,410 reviews)
+
+EASIEST WAY TO STREAM & ORGANIZE YOUR MUSIC Take control over your music and enhance your music listening experience with CloudBeats – cloud music player.  Whether you need an offline cloud music player listener, or a music cloud player to sync all your music albums and download mp3 songs on multiple devices,...
+
+[View on App Store](https://apps.apple.com/us/app/cloudbeats-cloud-music-player/id573192227?uo=4)
+
+### 2. Cubasis 3 - DAW & Music Studio
+
+**Steinberg Media Technologies GmbH** · Music, Entertainment · ⭐ 4.62 (3,436 reviews)
+
+Quickly and easily capture your musical ideas as soon as they arrive and turn them into professional-sounding songs with the multi-award winning Cubasis 3. Enjoy performing, recording, mixing and sharing your music in no time, wherever you are, right there on your iPhone and iPad. Meet one of the fastest, most...
+
+[View on App Store](https://apps.apple.com/us/app/cubasis-3-daw-music-studio/id1207839273?uo=4)
+
+### 3. TuneIn Radio: Music & Sports
+
+**TuneIn** · Music, Entertainment · ⭐ 4.72 (57,119 reviews)
+
+Listen to All the Audio You Love, All in One Place  Access over 100,000 live AM/FM radio stations from around the world, plus exclusive content from news, sports, music, podcasts, and audiobooks—all across your devices. Enjoy a broader range of audio than Pandora or iHeartRadio, all in one place.  Your Personalized...
+
+[View on App Store](https://apps.apple.com/us/app/tunein-radio-music-sports/id319295332?uo=4)
+
+### 4. Evermusic Pro: music player
+
+**EVERAPPZ SL** · Music, Entertainment · ⭐ 4.51 (903 reviews)
+
+Evermusic Pro - Cloud & Offline Music Player for iPhone and iPad.  Stream your music library from the cloud, listen offline, and take full control of your sound — no limits, no ads. Evermusic Pro combines a powerful audio player, equalizer, playlist manager, and file organizer in one beautiful app.  • PLAY ALL...
+
+[View on App Store](https://apps.apple.com/us/app/evermusic-pro-music-player/id905746421?uo=4)
+
+### 5. Cs Music Pro
+
+**Mike Clay** · Music, Entertainment · ⭐ 4.31 (1,811 reviews)
+
+Cs Music Pro reimagines the classic iOS Music app—updated, enhanced and ad-free.  Experience the familiar tabbed interface you loved, enhanced with powerful features and seamless Apple Music integration.   Effortless control: • Intuitive organization: Browse by artists, albums, playlists and more. • Advanced...
+
+[View on App Store](https://apps.apple.com/us/app/cs-music-pro/id924491991?uo=4)
+
+### 6. Lanota - Music game with story
+
+**Noxy Games Incorporation** · Games, Music · ⭐ 4.92 (1,981 reviews)
+
+Save the world by the power of music in this dynamic & refreshing rhythm game! Play the tunes and follow the rhythm, explore and revive the world. Unlock music of various genres, conquer specially designed boss-stages, and indulge in an artistic picture book!  AWARDS & ACHIEVEMENTS   2016 1st IMGA SEA “Excellence...
+
+[View on App Store](https://apps.apple.com/us/app/lanota-music-game-with-story/id1050535507?uo=4)
+
+### 7. MusicStreamer
+
+**Stratospherix** · Music, Entertainment · ⭐ 4.58 (553 reviews)
+
+Rediscover your Music Library with MusicStreamer.  "One of the best music streaming apps available for the iOS operating system." - appPicker.com "A smart, new app that makes local music streaming easier than ever." - AppAdvice.com “A fantastic answer to a common problem” - 148Apps  Do you have a music collection...
+
+[View on App Store](https://apps.apple.com/us/app/musicstreamer/id979888370?uo=4)
+
+---
+
+*Generated by the **minimax cron job** at 2026-07-04 04:00 UTC.*
