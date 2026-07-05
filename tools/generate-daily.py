@@ -599,9 +599,9 @@ def article_apps_like(date: str, idx: int, existing: list[str]) -> tuple[str, di
 
     cats = list(CATEGORIES)
     rng.shuffle(cats)
-    seed = name = pg = None
+    seed = name = pg = cat_id = cat_name = None
     alt_apps = []
-    for cid, _ in cats:
+    for cid, cname in cats:
         seed_apps = fetch_itunes({"term": cid, "country": "us"}, limit=80)
         popular = [a for a in seed_apps
                    if a.get("averageUserRating", 0) >= 4.3
@@ -610,6 +610,7 @@ def article_apps_like(date: str, idx: int, existing: list[str]) -> tuple[str, di
             seed = rng.choice(popular)
             name = seed.get("trackName", "?")
             pg = seed.get("primaryGenreName", "")
+            cat_id, cat_name = cid, cname
             alt_apps = [a for a in seed_apps
                         if a.get("primaryGenreName") == pg
                         and a.get("trackId") != seed.get("trackId")

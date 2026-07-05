@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updated_at": "2026-07-04T16:12:23.504895+00:00",
+  "updated_at": "2026-07-05T02:27:12.468241+00:00",
   "articles": [
     {
-      "title": "Best Books & Reference apps for photographers — a curator's guide",
-      "slug": "deep-books-photographers-2026-07-04",
+      "title": "Best Books & Reference apps for parents — a curator's guide",
+      "slug": "deep-books-parents-2026-07-04",
       "category": "deep_dive",
       "topic": "books",
-      "description": "A curated starter pack of 7 books & reference apps for photographers — picked for quality, not for ad spend.",
+      "description": "A curated starter pack of 7 books & reference apps for parents — picked for quality, not for ad spend.",
       "published_at": "2026-07-04",
-      "url": "https://raw.githubusercontent.com/albertlaudia/mx.solverwatch.insights/main/articles/deep-books-photographers-2026-07-04.md",
+      "url": "https://raw.githubusercontent.com/albertlaudia/mx.solverwatch.insights/main/articles/deep-books-parents-2026-07-04.md",
       "apps_featured": [
         364709193,
         302584613,
@@ -70,6 +70,24 @@
       ]
     },
     {
+      "title": "7 apps like Music X - Music Offline Player you'll actually want to try",
+      "slug": "apps-like-6752231606-2026-07-04",
+      "category": "alternatives",
+      "topic": "music",
+      "description": "Looking for an alternative to Music X - Music Offline Player? Here are 7 apps in Music that scratch the same itch — some better, some just different.",
+      "published_at": "2026-07-04",
+      "url": "https://raw.githubusercontent.com/albertlaudia/mx.solverwatch.insights/main/articles/apps-like-6752231606-2026-07-04.md",
+      "apps_featured": [
+        1404011371,
+        1177592149,
+        921765888,
+        913943275,
+        1054011814,
+        681144772,
+        1437251983
+      ]
+    },
+    {
       "title": "Meet Discover Mobile: the finance app quietly amassing five-star reviews",
       "slug": "spotlight-338010821-2026-07-04",
       "category": "spotlight",
@@ -99,6 +117,6 @@
       ]
     }
   ],
-  "total_articles": 6,
+  "total_articles": 7,
   "generated_by": "minimax cron job"
 }

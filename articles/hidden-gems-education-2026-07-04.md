@@ -4,7 +4,7 @@ slug: hidden-gems-education-2026-07-04
 category: hidden_gems
 topic: education
 published_at: 2026-07-04
-generated_at: 2026-07-04T16:12:23.486709+00:00
+generated_at: 2026-07-05T02:27:12.462698+00:00
 description: 6 under-the-radar education apps with cult-favourite ratings.
 source_query: term=education&country=us&entity=software&filter=rating>=4.5&count<5000
 ---

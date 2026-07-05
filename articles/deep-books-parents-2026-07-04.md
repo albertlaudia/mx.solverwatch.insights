@@ -1,17 +1,17 @@
 ---
-title: Best Books & Reference apps for photographers — a curator's guide
-slug: deep-books-photographers-2026-07-04
+title: Best Books & Reference apps for parents — a curator's guide
+slug: deep-books-parents-2026-07-04
 category: deep_dive
 topic: books
 published_at: 2026-07-04
-generated_at: 2026-07-04T16:12:17.488368+00:00
-description: A curated starter pack of 7 books & reference apps for photographers — picked for quality, not for ad spend.
-source_query: term=books&country=us&entity=software&use_case=photographers
+generated_at: 2026-07-05T02:27:09.906163+00:00
+description: A curated starter pack of 7 books & reference apps for parents — picked for quality, not for ad spend.
+source_query: term=books&country=us&entity=software&use_case=parents
 ---
 
-# Best Books & Reference apps for photographers — a curator's guide
+# Best Books & Reference apps for parents — a curator's guide
 
-A curated starter pack of 7 books & reference apps for photographers — picked for quality, not for ad spend.
+A curated starter pack of 7 books & reference apps for parents — picked for quality, not for ad spend.
 
 ## The starter pack
 
